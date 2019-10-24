@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Sagg155
+- Photo: N/A
+- Location: India
+- Bio: FrontEnd Developer
+- Github: https://github.com/sagg155
